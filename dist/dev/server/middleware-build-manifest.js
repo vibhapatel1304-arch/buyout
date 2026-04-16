@@ -1,0 +1,26 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/12hh_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_0jqx6_p._.js",
+    "static/chunks/12hh_next_dist_compiled_next-devtools_index_0ix7dyn.js",
+    "static/chunks/12hh_next_dist_compiled_react-dom_13m9_h6._.js",
+    "static/chunks/12hh_next_dist_compiled_react-server-dom-turbopack_0bxoofo._.js",
+    "static/chunks/12hh_next_dist_compiled_0j-upj3._.js",
+    "static/chunks/12hh_next_dist_client_0.5uiv5._.js",
+    "static/chunks/12hh_next_dist_0rq0u81._.js",
+    "static/chunks/12hh_@swc_helpers_cjs_0zkrbbe._.js",
+    "static/chunks/03ci_Documents_buyout-dashboard_boulder-dashboard-main_buyout-dashboard_0rqeker._.js",
+    "static/chunks/0rf1_Documents_buyout-dashboard_boulder-dashboard-main_buyout-dashboard_0fjxweh._.js"
+  ]
+};
